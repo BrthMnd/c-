@@ -15,7 +15,6 @@ namespace ProyectV
             int option = 0;
             do
             {
-
                 Console.Write(@"¡¡¡MENU DE OPCIONES!!!
 OPTION -> 0 == SALIR DEL MENU!!!
 OPCION -> 1 == Un proveedor de computadores ofrece descuento del 10%, si cuesta
